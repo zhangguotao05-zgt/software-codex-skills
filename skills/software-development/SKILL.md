@@ -2,7 +2,7 @@
 name: software-development
 description: "Implement, debug, refactor and validate mobile apps, websites, desktop applications, APIs and data services using cohesive modules, narrow interfaces and focused checks. Use for software feature delivery, architecture cleanup, cross-client data or lifecycle bugs, development/production configuration and release readiness. Routine small fixes stay small; firmware and physical device operation are outside this skill."
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # Software Development
@@ -85,12 +85,14 @@ everything independently executable. See [delivery](references/delivery.md).
 
 ## Finish and report
 
-Keep routine standalone fixes in their existing scope. When the project has
-assigned roles, use its registered ownership: C delivers the integrated change,
-D reviews the affected code and original evidence, and A resolves actual shared
-boundaries or blockers. Involve design specialists for real interaction changes.
-This skill creates no chats, delegates no work and grants no acceptance authority.
-An implementer cannot present their own checks as independent acceptance.
+Keep routine standalone fixes in their existing scope. Apply role handoffs only
+when the current change is covered by a registered work-package agreement: C
+delivers the integrated change, D reviews the affected code and original evidence,
+and A resolves actual shared boundaries or blockers. Follow existing design gates;
+seek design input for a new interaction decision, not merely for restoring
+already intended behavior. This skill creates no chats, delegates no work and
+grants no acceptance authority. An implementer cannot present their own checks
+as independent acceptance.
 
 Reuse valid results with a reason tied to unchanged inputs. Repeat checks when
 affected code, configuration, dependencies, fixtures or runtime conditions change,

@@ -1,7 +1,7 @@
 # 纯软件开发 Skills
 
 供 Codex 开发 App、Web、PC、API、数据库与软件服务的独立私有技能仓库。
-当前版本 **v1.0.0**，包含一个完整的 `software-development` skill，按任务加载专项指引。
+当前版本 **v1.0.1**，包含一个完整的 `software-development` skill，按任务加载专项指引。
 
 ## 能做什么
 
