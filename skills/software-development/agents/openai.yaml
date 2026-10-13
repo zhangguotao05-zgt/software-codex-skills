@@ -1,0 +1,4 @@
+interface:
+  display_name: "纯软件开发"
+  short_description: "Cohesive App, Web, PC and backend development"
+  default_prompt: "Use $software-development to complete the requested software change with clear ownership, focused verification and a concise handoff."
